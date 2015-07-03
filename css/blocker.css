@@ -1,0 +1,130 @@
+#input_container{
+	display: none;
+	position: relative;
+	margin: 100px auto;
+	height: 255px;
+	width: 410px;
+
+	z-index: 999;
+	
+	padding:0 5px;
+	background-color: #1d1d1f;
+}
+
+#input_container h2 {
+	position: relative;
+	top: -35px;
+	padding: 10px 5px;
+	text-align: center;
+	display: block;
+	margin:0 0 10px;
+	padding:0;
+	border-bottom: 1px solid #000;
+	height: 45px;
+	line-height: 45px;
+	font-family: 'Graduate', Impact, arial, helvetica, sans-serif;
+	font-weight: 700;
+	text-transform: uppercase; 
+	font-size: 32px; 
+	color: #fff; 
+	text-shadow: 2px 2px 0 #000; -moz-text-shadow: 2px 2px 0 #000; -webkit-text-shadow: 2px 2px 0 #000;
+	background-color: #1d1d1f;
+}
+
+#input_container form{
+	position: relative;
+	font-weight: 700;
+	color: #BCD52F;
+}
+
+#input_container form #email{
+	position: relative;
+	top: -23px;
+	left:61px;
+}	
+
+#input_container form #name{
+	position: relative;
+	top: -38px;
+	left:31px;
+}
+
+#input_container form #phone{
+	position: relative;
+	top: -3px;
+	left: 107px;
+}
+
+#input_container form #email_label{
+	position: relative;
+	top: -23px;
+	left:60px;
+}	
+
+#input_container form #phone_label{
+	position: relative;
+	top: 32px;
+	left: -260px;
+}
+
+#input_container form #name_label{
+	position: relative;
+	top: -38px;
+	left:30px;
+}
+
+#input_container form input{
+	height: 30px;
+	width: 250px;
+	background-color: #000000;
+	color: #BCD52F;
+}
+
+#sign_up_button {
+	position: relative;
+	top: 42px;
+	left: -90px;
+	height: 27px;
+	width: 100px;
+	background-color: #000000;
+	color: #ffffff;
+	-webkit-border-radius: 15px;
+	-moz-border-radius: 15px;
+	border-radius: 15px;
+}
+
+#close{
+	position: relative;
+	background-color: #000000;
+	top: 2px;
+	left: 381px;
+	height: 30px;
+	width: 30px;
+	font-weight:800;
+	font-size: 130%;
+	color: #fffff;	
+	text-align: center;
+	padding: 5px 0 0;
+	z-index: 1000;
+}
+
+#close:hover {
+	cursor: pointer;
+	background-color: #ffffff;
+	color: #000000;
+}
+
+#mon, #tues, #wed, #thurs, #mon_am_1, #mon_am_2, #mon_pm, #tues_am_1, #tues_noon, #tues_pm, #wed_am_1, #wed_am_2, #wed_pm, #thurs_am_1, #thurs_noon, #thurs_pm, #fri_am_1:hover {
+	cursor: pointer;
+}
+
+#succ_message{
+	display: none;
+	margin: 10px;
+	color: #BCD52F;
+}
+
+#sign_up_button:hover {
+	cursor: pointer;
+	color: #BCD52F;
+}

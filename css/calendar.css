@@ -1,0 +1,73 @@
+  .calendar {
+
+        overflow: hidden;
+        width: 810px;
+        padding: 6px;
+        margin: 0 auto 10px;
+        background-color: #2f2f31;
+    }
+    .flstMenu {
+        text-align:center;
+        width:810px;
+        
+    }
+    .flstMenu {
+    	font-size:28px; 
+    	margin: 5px auto;
+    	font-family: 'Economica', Arial, Helvetica, sans-serif
+    }
+    .flstMenu a {
+        
+        font-size:20px;
+        padding:0 10px;
+    }
+    .calendar li {
+        float: left;
+        width: 113px;
+        min-height: 100px;
+        border: 1px solid #ccc;
+        border-left: 0px;
+        list-style-type: none;
+        text-align: center;
+    }
+    .calendar li.firstRow {
+        border-left: 1px solid #ccc;
+    }
+    .calendar li.head {
+        min-height: 25px;
+        color: #00adef;
+		font-weight: 700;
+		padding: 5px 0 0;
+		font-family: 'Economica', Arial, Helvetica, sans-serif;
+		font-size: 18px;
+    }
+    .calendar li p.date {
+        color: #E0E0E0;
+        font-style: italic;
+        font-size: 12px;
+ 		float: left;
+ 		margin: 0;
+    }
+    .calendar li p {
+        color: #E0E0E0;
+    }
+    .calendar li div.iCode {
+        font-size: 11px;
+        color: black;
+    }
+    .selectat, .calendar li.selectat p.date, .calendar li.selectat div.iCode {
+        background: #00adef;
+        color: white;
+        
+    }
+       .sPluginContainer img ,   .sPluginContainer{
+           width:100px;
+           height:85px;
+       }
+    .sPluginContainer {
+
+   
+        overflow:hidden;
+        text-allign:center;
+        
+    }
