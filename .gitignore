@@ -5,6 +5,7 @@
 *.ids
 .idea
 .project
+.buildpath
 
 # Mac OS X
 .DS_Store
