@@ -50,9 +50,8 @@
                 <h2>Meet Our Trainers</h2>
                 <ul>
                     <li><a href="trainers.php#women-sara">Sara</a></li>
-                    <li><a href="trainers.php#women-emily">Emily</a></li>
-                    <li><a href="trainers.php#women-katie">Katie</a></li>
-                    <li><a href="trainers.php#women-erin">Erin</a></li>
+                    <li><a href="trainers.php#women-shelley">SHELLEY</a></li>
+                    <li><a href="trainers.php#men-jc">JC</a></li>
                 </ul>
             </div>
             
@@ -77,7 +76,7 @@
             <div class="module" id="bpc-daily">
                 <h2>BPC Times</h2>
                 <?php
-                                require('../html/wordpress/wp-blog-header.php');            
+                    require('../html/wordpress/wp-blog-header.php');
                     query_posts('category_name=News&posts_per_page=10&order=DESC&orderby=date'); 
                     
                     while (have_posts()) : the_post();
