@@ -52,7 +52,7 @@
                     <li><a href="trainers.php#women-sara">Sara</a></li>
                     <li><a href="trainers.php#women-emily">Emily</a></li>
                     <li><a href="trainers.php#women-katie">Katie</a></li>
-            <li><a href="trainers.php#women-erin">Erin</a></li>
+                    <li><a href="trainers.php#women-erin">Erin</a></li>
                 </ul>
             </div>
             
