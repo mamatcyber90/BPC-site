@@ -37,7 +37,6 @@
         <div class="col" id="leftcol">
 
             <div class="module" id="classes">
-                <h2>Training &amp; Classes</h2>
                 <ul>
                     <li><a href="blog_page.php?cat_type=WOD&title=CrossFit WOD&num_posts=7">Crossfit WOD</a></li>
                     <li><a class="south_lamar" href="/training_tracker">Training Tracker</a></li>
@@ -45,8 +44,12 @@
                 </ul>
             </div>
 
+            <div id="start_now_green">
+                <a href="start_now.php">START NOW</a>
+            </div>
+
             <div class="module" id="trainers">
-                <h2>Meet Our Trainers</h2>
+                <h2>Meet Our Coaches</h2>
                 <ul>
                     <li><a href="trainers.php#women-sara">Sara</a></li>
                     <li><a href="trainers.php#women-shelley">SHELLEY</a></li>
@@ -56,16 +59,12 @@
 
             <div class="module" id="sponser">
                 <ul>
-                    <li><a style="background-color: #FFFFFF" href="http://journal.crossfit.com/start.tpl?version=CFJ-black300x150" target="_blank" title="CrossFit Journal: The Performance-Based Lifestyle Resource"><img style="margin: 2px 19px 0;" src="http://journal.crossfit.com/templates/images/black-300x150.png" width="150px" height="66px" alt="CrossFit Journal: The Performance-Based Lifestyle Resource" /></a></li>
+                    <li><a href="http://journal.crossfit.com/start.tpl?version=CFJ-white300x150" target="_blank" title="CrossFit Journal: The Performance-Based Lifestyle Resource"><img style="margin: 2px 19px 0;" src="http://journal.crossfit.com/templates/images/white-300x150.png" width="150px" height="66px" alt="CrossFit Journal: The Performance-Based Lifestyle Resource" /></a></li>
                     <li><a href="https://www.advocare.com/120311523" target="_blank"><img style="height: 70px; margin-left: 30px;" src="images/white-advocare-logo.png" alt="advocare"></a></li>
-                    <li><a href="https://kids.crossfit.com " target="_blank"><img src="images/CFK_logo_v_tag_color_darkbg.png" alt="crossfit-kids"></a></li>
+                    <li><a href="https://kids.crossfit.com " target="_blank"><img style="margin-left: 15px;" src="images/CFK_logo_v_tag_color_darkbg.png" alt="crossfit-kids"></a></li>
                 </ul>
             </div>
 
-        </div>
-
-        <div id="start_now_green">
-            <a href="start_now.php">START NOW</a>
         </div>
 
         <div class="col" id="rightcol">
@@ -73,7 +72,7 @@
                 <h2>News & Events</h2>
                 <?php
                 require('../html/wordpress/wp-blog-header.php');
-                query_posts('category_name=News&posts_per_page=10&order=DESC&orderby=date');
+                query_posts('category_name=News&posts_per_page=7&order=DESC&orderby=date');
 
                 while (have_posts()) : the_post();
                     echo "<div class=\"blog\"><em>";

@@ -167,9 +167,13 @@ header {
     clear: both;
 }
 
+header .bpc-logo-container {
+    width: 585px;
+    margin: 0 auto;
+    display: block;
+}
+
 header img#logo {
-    width: 380px;
-    height: 167px;
     float: left;
 }
 
@@ -190,9 +194,8 @@ header img#logo {
 }
 
 #start_now_green{
-    float: right;
-    margin: 0 2% 2% 2%;
-    width: 45%;
+    margin: 10px 7% 25px 7%;
+    width: 86%;
     display: inline-block;
     border: 1px solid #FFFFFF;
     border-radius: 3px;
@@ -440,7 +443,7 @@ ul.main-navigation li#nav6 { width: 14% }*/
     list-style: none;
     width: 100%;
     margin:0;
-    padding:0 0 5px;
+    padding: 5px 0 0;
     position: relative;
     clear: both;
 }
@@ -733,6 +736,12 @@ footer #rightcol {
 
     .blog img#eatology{
         width: 100%;
+    }
+
+    header .bpc-logo-container {
+        width: 100%;
+        margin: 0 auto;
+        display: block;
     }
 
     header img#logo {
