@@ -186,10 +186,10 @@
                         <li><a href="https://clients.mindbodyonline.com/ASP/home.asp?studioid=23361" target="_blank">SIGN UP</a></li>
                         <li></li>
                         <li><a href="https://clients.mindbodyonline.com/ASP/home.asp?studioid=23361" target="_blank">SIGN UP</a></li>
-                        <li><a href="#">OPEN GYM</a></li>
-                        <li><a href="#">OPEN GYM</a></li>
-                        <li><a href="#">OPEN GYM</a></li>
-                        <li><a href="#">OPEN GYM</a></li>
+                        <li></li>
+                        <li></li>
+                        <li></li>
+                        <li></li>
                     </ul>
                 </li>
                 <li>
