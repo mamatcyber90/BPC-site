@@ -44,19 +44,8 @@
 						<h3><b>COACH SARA</b></h3>
 
 						<p>Meet Sara Smithhart, founder and owner of Brodie Park CrossFit. Soon after her graduation from the University of Mississippi in 2005 Sara found her way to Austin, Texas.  Having had a very broad background in many athletic activities, Sara soon was looking to become active again.</p>
-						<p>Sara plays on the USTA Tennis Team, previous played competitive basketball and soccer, trains for Olympic triathlons, marathons, half marathons, and Muay Thai. Sara soon got attracted to CrossFit Training and the benefits to be had by its new and exciting technique.  Couple this with her longstanding desire for helping others achieve their goals; Sara made the decision to become CrossFit Level 1 and CrossFit Kids certified. She has now gone to the next level by opening the areas newest and most comprehensive CrossFit facility, Brodie Park CrossFit.</p>
-						<p>She and her staff of qualified professionals eagerly look forward to helping you reach your fitness goals.</p>
-						<br>
-						<p><strong>Available for 1-on-1 coaching as well as small group training</strong></p>
-						<br>
-						<p>Level 1 Crossfit Certification
-							<br>Crossfit Kids Certification
-							<br>Crossfit Kettlebell Instructor Certification
-							<br>Crossfit Olympic Lifting Certification
-							<br>Crossfit Mobility Certification
-							<br>Crossfit Football Certification
-							<br><br>
-							Contact Sara at <a href="mailto:sara@brodieparkcrossfit.com">sara@brodieparkcrossfit.com</a></p>
+						<br/>
+		                <p><a href="coaches-sara.php">Read Full Bio...</a></p>
 					</td>
 				</tr>
 			</table>
@@ -73,12 +62,9 @@
 					<td>
 						<h3><b>COACH JC</b></h3>
 
-						<p>After spending several years in The Marine Corps, JC realized fitness would always be a large part of what defined him as a person and would be essential to his overall wellbeing and safety during his career as a Police Officer. He was introduced to CrossFit by a friend and co-worker back in 2009 while working as a PT (Physical Training) Instructor at the Austin Police Academy, and he has been hooked ever since! He has been involved in many forms of sports such as soccer, football, triathlons, long distance running, weight training, mountain biking and motocross throughout the entirety of his life, so CrossFit was a natural fit. JC’s passion for CrossFit and healthy living carries over to his strong desire to help others meet their fitness and wellness goals and succeed in life. He enjoys the camaraderie and positive atmosphere of the CrossFit community and appreciates the overwhelming feeling of accomplishment and success shared by all. Semper Fi, JC</p>
-						<br>
-						<p>Level 1 CrossFit Certification<br>
-							CrossFit Endurance Certification<br>
-							CrossFit Kettlebell Instructor Certification<br>
-							CrossFit Olympic lifting Certification</p>
+						<p>After spending several years in The Marine Corps, JC realized fitness would always be a large part of what defined him as a person and would be essential to his overall wellbeing and safety during his career as a Police Officer.</p>
+                        <br/>
+                        <p><a href="coaches-jc.php">Read Full Bio...</a></p>
 					</td>
 				</tr>
 			</table>
@@ -95,12 +81,9 @@
 					<td>
 						<h3><b>COACH SHELLEY</b></h3>
 
-						<p>Shelley holds a Bachelor of Science degree from Angelo State University. Shelley is a United States Probation Officer and has been in the field for over 15 years. She has served as a divisional Defensive Tactics Instructor, and continues to train in defensive tactics and firearms. Her introduction to CrossFit came in 2011 while living in Midland and Del Rio and she has been hooked ever since. Shelly is also active in CrossFit competitions, adventure races, and charity events because she enjoys the challenge that comes with setting a goal, working toward it, and achieving her personal best. As a coach, she strives to help her athletes do the same.</p>
-						<p>Whether a beginner or advanced athlete, she believes that CrossFit can help anyone reach their peak performance. She’s personally seen the impact that training in the box can have on someone’s well-being – having gone through the intense injuries of a motorcycle accident herself. She has seen first hand how training with CrossFit prepares someone for the mental and physical stamina it takes to endure intense physical therapy and make a full recovery.</p>
-						<p>Shelly views CrossFit as a lifestyle change and an opportunity to challenge yourself in a way that isn’t possible with any other type of “regular” gyms.</p>
-						<br>
-						<br>
-						<p>Level 1 Crossfit Certification
+						<p>Shelley holds a Bachelor of Science degree from Angelo State University. Shelley is a United States Probation Officer and has been in the field for over 15 years. She has served as a divisional Defensive Tactics Instructor, and continues to train in defensive tactics and firearms.</p>
+                        <br/>
+                        <p><a href="coaches-shelley.php">Read Full Bio...</a></p>
 
 					</td>
 				</tr>
