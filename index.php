@@ -51,9 +51,9 @@
             <div class="module" id="trainers">
                 <h2>Meet Our Coaches</h2>
                 <ul>
-                    <li><a href="trainers.php">Sara</a></li>
-                    <li><a href="trainers.php">SHELLEY</a></li>
-                    <li><a href="trainers.php">JC</a></li>
+                    <li><a href="coaches.php">Sara</a></li>
+                    <li><a href="coaches.php">SHELLEY</a></li>
+                    <li><a href="coaches.php">JC</a></li>
                 </ul>
             </div>
 
