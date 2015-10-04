@@ -169,7 +169,6 @@ function IsInjected($str)
 				<p>
 				<label for='testout'>Location:</label><br>	
 				<input type="radio" name="location" value='Brodie' checked="checked">Brodie<br>
-				<input type="radio" name="location" value='South Lamar'>South Lamar
 				</p>
 				<p>
 				<label for='message'>Message:</label> <br>

@@ -55,7 +55,6 @@
 
 			<div id="men-jc"></div>
 			<table>
->
 				<tr>
 					<td>
 						<img style="width:205px; height:293px;" src="images/jc.png"/>

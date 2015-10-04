@@ -49,7 +49,7 @@
             <br/><br/>
             <h3>2. Once Elements is completed, find a membership that best suits you and start enrolling in classes</h3>
             <p style="padding:0 20px;">There are 2x a week, 3x a week and Unlimited memeberships. We also offer punchcards for single class use.
-            <br/><br/>Enroll for classes at <a href="schedule_programs.php"><strong>Brodie location</strong></a> or <a href="south_lamar/schedule_programs.php"><strong>South Lamar location</strong></a></p> 
+            <br/><br/>Enroll for classes at <a href="schedule_programs.php"><strong>Brodie location</strong></a></p>
             
         </div>
     	

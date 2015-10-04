@@ -53,15 +53,15 @@
         
         <div class="blog_container">
         	<div>
-        		<?php 
-        			if(trim($_GET["title"]) == "Events"){
-        				echo '<h1>' .trim($_GET["title"]). '</h1>';	
-        			}
-					else {
-        				echo '<h1>' .trim($_GET["title"]). '</h1>';
-					}
+        		<?php
+                    if(trim($_GET["title"]) == "Events"){
+                        echo '<h3 id=event class=blog_page_title>' .trim($_GET["title"]). '</h3>';
+                    }
+                    else {
+                        echo '<h3 class=blog_page_title>' .trim($_GET["title"]). '</h3>';
+                    }
         		 
-        			require('../html/wordpress/wp-blog-header.php');			
+        			require('../public_html/wordpress/wp-blog-header.php');
 					query_posts('category_name=' .trim($_GET["cat_type"]). '&posts_per_page='.$_GET["num_posts"].'&order=DESC&orderby=date'); 
 					
 			  		while (have_posts()) : the_post();

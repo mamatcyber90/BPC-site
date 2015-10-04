@@ -13,6 +13,8 @@ RewriteCond %{REQUEST_FILENAME} !-d
 RewriteCond %{DOCUMENT_ROOT}/$1.php -f
 RewriteRule ^(.*?)/?$ $1.php [L]
 
-RewriteCond %{HTTP_HOST} ^www.brodiepark.com$ [OR]
-RewriteCond %{HTTP_HOST} ^brodiepark.com$
-RewriteRule ^south_lamar\/trainers\.php$ "http\:\/\/brodiepark\.com\/" [R=301,L] #51fbd9b8d8679
+RewriteCond %{HTTP_HOST} ^www.brodieparkcrossfit.com$ [OR]
+RewriteCond %{HTTP_HOST} ^brodieparkcrossfit.com$
+RewriteRule ^south_lamar\/trainers\.php$ "http\:\/\/brodieparkcrossfit\.com\/" [R=301,L] #51fbd9b8d8679
+
+#RewriteOptions inherit

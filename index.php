@@ -71,7 +71,7 @@
             <div class="module" id="bpc-daily">
                 <h2>News & Events</h2>
                 <?php
-                require('../html/wordpress/wp-blog-header.php');
+                require('../public_html/wordpress/wp-blog-header.php');
                 query_posts('category_name=News&posts_per_page=7&order=DESC&orderby=date');
 
                 while (have_posts()) : the_post();
