@@ -32,89 +32,7 @@
         <div class="col" id="singlecol">
             <h1>BPC Membership Fees</h1>
 
-            <div class="member-pricing gray">
-                <div class="membership"><strong>Membership Package</strong></div>
-                <div class="frequency"><strong># of Classes</strong></div>
-                <div class="price"><strong>Monthly Rate</strong></div>
-            </div>
-
-            <div class="member-pricing">
-                <div class="membership">Single Class</div>
-                <div class="frequency">1 class</div>
-                <div class="price">$20.00</div>
-            </div>
-            <div class="member-pricing">
-                <div class="membership">10 Class Punchcard</div>
-                <div class="frequency">10 classes</div>
-                <div class="price">$165.00</div>
-            </div>
-            <div class="member-pricing">
-                <div class="membership">BPC Disco Members</div>
-                <div class="frequency"></div>
-                <div class="price">$10.00</div>
-            </div>
-            <div class="member-pricing">
-                <div class="membership">BPC Disco Non-Members</div>
-                <div class="frequency"></div>
-                <div class="price">$25.00</div>
-            </div>
-            <div class="clear"></div>
-            <br/>
-            <div class="member-pricing gray">
-                <div class="membership"><strong>Personal Training</strong></div>
-                <div class="frequency"><strong># of Classes</strong></div>
-                <div class="price"><strong>Monthly Rate</strong></div>
-            </div>
-            <div class="member-pricing">
-                <div class="membership">Initial Assessment</div>
-                <div class="frequency"></div>
-                <div class="price">Free</div>
-            </div>
-            <div class="member-pricing">
-                <div class="membership">1 Session</div>
-                <div class="frequency"></div>
-                <div class="price">$75.00</div>
-            </div>
-            <div class="member-pricing">
-                <div class="membership">10 Sessions</div>
-                <div class="frequency"></div>
-                <div class="price">$650.00</div>
-            </div>
-            <div class="member-pricing">
-                <div class="fine-print">
-                    *Initial Assessment includes body compositions, nutrition consultation, goal setting, programming consult.
-                    <br/>
-                    **Group Training available and more packages upon request
-                </div>
-            </div>
-            <div class="clear"></div>
-            <br />
-
-            <h3>Elements</h3>
-            <hr/>
-
-            <div class="member-pricing gray">
-                <div class="membership"><strong>Membership Package</strong></div>
-                <div class="frequency"><strong># of Classes</strong></div>
-                <div class="price"><strong>Monthly Rate</strong></div>
-            </div>
-
-            <div class="member-pricing">
-                <div class="membership">2 Class Intro Course</div>
-                <div class="frequency"></div>
-                <div class="price">$100</div>
-            </div>
-
-            <div class="member-pricing">
-                <div class="fine-print">
-                    *All Elements must be scheduled with a BPC coach. Email info@brodieparkcrossfit.com to schedule.
-                </div>
-            </div>
-
-            <div class="clear"></div>
-            <br />
-
-            <h3>Indoor Classes</h3>
+            <h3>CrossFit Classes</h3>
             <hr/>
 
             <div class="member-pricing gray">
@@ -185,6 +103,50 @@
                 <div class="membership"></div>
                 <div class="frequency">Unlimited</div>
                 <div class="price">$145/mo</div>
+            </div>
+
+            <div class="clear"></div>
+            <br />
+
+            <div class="member-pricing gray">
+                <div class="membership"><strong>Membership Package</strong></div>
+                <div class="frequency"><strong># of Classes</strong></div>
+                <div class="price"><strong>Monthly Rate</strong></div>
+            </div>
+
+            <div class="member-pricing">
+                <div class="membership">Single Class</div>
+                <div class="frequency">1 class</div>
+                <div class="price">$20.00</div>
+            </div>
+            <div class="member-pricing">
+                <div class="membership">10 Class Punchcard</div>
+                <div class="frequency">10 classes</div>
+                <div class="price">$165.00</div>
+            </div>
+
+            <div class="clear"></div>
+            <br/>
+
+            <h3>Beginner Class</h3>
+            <hr/>
+
+            <div class="member-pricing gray">
+                <div class="membership"><strong>Membership Package</strong></div>
+                <div class="frequency"><strong># of Classes</strong></div>
+                <div class="price"><strong>Monthly Rate</strong></div>
+            </div>
+
+            <div class="member-pricing">
+                <div class="membership">2 Class Intro Course</div>
+                <div class="frequency"></div>
+                <div class="price">$100</div>
+            </div>
+
+            <div class="member-pricing">
+                <div class="fine-print">
+                    *All Beginner Classes must be scheduled with a BPC coach. Email info@brodieparkcrossfit.com to schedule.
+                </div>
             </div>
 
             <div class="clear"></div>
@@ -270,7 +232,7 @@
             <br /><br />
             <div class="member-pricing">
                 <div class="fine-print">
-                    *With the exception of Elements, all membership packages rates are per calendar month, paid monthly.
+                    *With the exception of beginner classes, all membership packages rates are per calendar month, paid monthly.
                     <br />
                     **15% discount to Teachers, Students, Police, Firefighters, and Military.
                     <br />
