@@ -42,7 +42,7 @@ if(isset($_POST['submit']))
 		//send the email
 		$to = $your_email;
 		$subject="New ELEMENTS submission";
-		$from = "Element Sign Up Form";
+		$from = "ElementSignUpForm";
 		$ip = isset($_SERVER['REMOTE_ADDR']) ? $_SERVER['REMOTE_ADDR'] : '';
 		
 		$body = "$name submitted the elements form:\n".
