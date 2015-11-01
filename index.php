@@ -39,6 +39,7 @@
             <div class="module" id="classes">
                 <ul>
                     <li><a href="blog_page.php?cat_type=WOD&title=CrossFit WOD&num_posts=7">Crossfit WOD</a></li>
+                    <li><a href="endurance.php">BPC Endurance</a></li>
                     <li><a class="south_lamar" href="/training_tracker">Training Tracker</a></li>
                     <li><a href="blog_page.php?cat_type=Success&title=Success Stories&num_posts=75">Success Stories</a></li>
                 </ul>
