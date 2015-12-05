@@ -10,7 +10,6 @@
 	<link href='http://fonts.googleapis.com/css?family=Economica:400,700' rel='stylesheet' type='text/css' />
 	<link href='http://fonts.googleapis.com/css?family=Permanent+Marker' rel='stylesheet' type='text/css' />
 	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.7/jquery.min.js" type="text/javascript"></script>
-	<script src="js/element_sign_up.js" type="text/javascript"></script>
 	<script type="text/javascript">
 	  $(function(){
 	
