@@ -117,7 +117,7 @@
                         <li>5:15 PM</li>
                         <li>6:00 PM</li>
                         <li>6:45 PM</li>
-                        <li>7:00 PM</li>
+                        <li>7:30 PM</li>
                     </ul>
                 </li>
                 <li>
@@ -239,28 +239,28 @@
                 <li>
                     <ul id="monday">
                         <li></li>
-                        <li></li>
+                        <li><a href="https://clients.mindbodyonline.com/ASP/home.asp?studioid=23361" target="_blank">SIGN UP</a></li>
                     </ul>
                 </li>
 
                 <li>
                     <ul id="tuesday">
                         <li></li>
-                        <li><a href="https://clients.mindbodyonline.com/ASP/home.asp?studioid=23361" target="_blank">SIGN UP</a></li>
+                        <li></li>
                     </ul>
                 </li>
 
                 <li>
                     <ul id="wednesday">
                         <li></li>
-                        <li></li>
+                        <li><a href="https://clients.mindbodyonline.com/ASP/home.asp?studioid=23361" target="_blank">SIGN UP</a></li>
                     </ul>
                 </li>
 
                 <li>
                     <ul id="thursday">
                         <li></li>
-                        <li><a href="https://clients.mindbodyonline.com/ASP/home.asp?studioid=23361" target="_blank">SIGN UP</a></li>
+                        <li></li>
                     </ul>
                 </li>
 

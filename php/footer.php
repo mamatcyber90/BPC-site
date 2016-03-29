@@ -1,7 +1,7 @@
 <footer>
 
     <div class="col" id="leftcol">
-        &copy; 2015 Brodie Park Crossfit. All rights reserved.
+        &copy; 2016 Brodie Park Crossfit. All rights reserved.
         <br />9001 Brodie Lane C-9
         <br />Austin, Texas 78748
         <br />(512) 280-1308
