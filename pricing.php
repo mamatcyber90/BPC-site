@@ -187,47 +187,6 @@
                 <div class="price">$100/5 classes + 1 free</div>
             </div>
             <div class="clear"></div>
-            <br />
-
-            <h3>Crossfit Kids</h3>
-            <hr/>
-
-            <div class="member-pricing gray">
-                <div class="membership"><strong>Membership Package</strong></div>
-                <div class="frequency"><strong># of Classes</strong></div>
-                <div class="price"><strong>Monthly Rate</strong></div>
-            </div>
-
-            <div class="clear"></div>
-
-            <div class="member-pricing">
-                <div class="membership">Kids (6-11 years old)</div>
-                <div class="frequency">1/Week</div>
-                <div class="price">$55/mo</div>
-            </div>
-
-            <div class="member-pricing">
-                <div class="membership"></div>
-                <div class="frequency">2/Week</div>
-                <div class="price">$75/mo</div>
-            </div>
-
-            <div class="clear"></div>
-            <br />
-
-            <div class="member-pricing">
-                <div class="membership">Teens (12-19 years old)</div>
-                <div class="frequency">1/Week</div>
-                <div class="price">$75/mo</div>
-            </div>
-
-            <div class="member-pricing">
-                <div class="membership"></div>
-                <div class="frequency">2/Week</div>
-                <div class="price">$100/mo</div>
-            </div>
-
-            <div class="clear"></div>
 
             <br /><br />
             <div class="member-pricing">
@@ -236,9 +195,7 @@
                     <br />
                     **15% discount to Teachers, Students, Police, Firefighters, and Military.
                     <br />
-                    ***20% off for kids if parents are in a 3 month membership or more.
-                    <br />
-                    ****No refunds on personal training, group training, and membership packages.
+                    ***No refunds on personal training, group training, and membership packages.
                 </div>
             </div>
 
