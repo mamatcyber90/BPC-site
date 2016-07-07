@@ -50,44 +50,6 @@
 				</tr>
 			</table>
 
-			<div class="clear"></div>
-			<hr />
-
-			<div id="men-jc"></div>
-			<table>
-				<tr>
-					<td>
-						<img style="width:205px; height:293px;" src="images/jc.png"/>
-					</td>
-					<td>
-						<h3><b>COACH JC</b></h3>
-
-						<p>After spending several years in The Marine Corps, JC realized fitness would always be a large part of what defined him as a person and would be essential to his overall wellbeing and safety during his career as a Police Officer.</p>
-                        <br/>
-                        <p><a href="coaches-jc.php">Read Full Bio...</a></p>
-					</td>
-				</tr>
-			</table>
-
-			<div class="clear"></div>
-			<hr />
-
-			<div id="women-shelley"></div>
-			<table>
-				<tr>
-					<td>
-						<img src="images/shelly.png"/>
-					</td>
-					<td>
-						<h3><b>COACH SHELLEY</b></h3>
-
-						<p>Shelley holds a Bachelor of Science degree from Angelo State University. Shelley is a United States Probation Officer and has been in the field for over 15 years. She has served as a divisional Defensive Tactics Instructor, and continues to train in defensive tactics and firearms.</p>
-                        <br/>
-                        <p><a href="coaches-shelley.php">Read Full Bio...</a></p>
-
-					</td>
-				</tr>
-			</table>
 
 			<div class="clear"></div>
 			<hr />

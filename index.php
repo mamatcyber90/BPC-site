@@ -53,8 +53,6 @@
                 <h2>Meet Our Coaches</h2>
                 <ul>
                     <li><a href="coaches.php">Sara</a></li>
-                    <li><a href="coaches.php">SHELLEY</a></li>
-                    <li><a href="coaches.php">JC</a></li>
                 </ul>
             </div>
 
