@@ -6,9 +6,9 @@
 	<meta name="keywords" content="Brodie Park, Brodie Park Crossfit, Crossfit Austin, Crossfit TX, South Austin Crossfit, Crossfit, Crossfit Kids, crossfight" />
 	<meta name="viewport" content="width=device-width, initial-scale=1" />
 	<title>Brodie Park Crossfit | Austin, TX</title>
-	<link href='http://fonts.googleapis.com/css?family=Graduate' rel='stylesheet' type='text/css' />
-	<link href='http://fonts.googleapis.com/css?family=Economica:400,700' rel='stylesheet' type='text/css' />
-	<link href='http://fonts.googleapis.com/css?family=Permanent+Marker' rel='stylesheet' type='text/css' />
+	<link href='https://fonts.googleapis.com/css?family=Graduate' rel='stylesheet' type='text/css' />
+	<link href='https://fonts.googleapis.com/css?family=Economica:400,700' rel='stylesheet' type='text/css' />
+	<link href='https://fonts.googleapis.com/css?family=Permanent+Marker' rel='stylesheet' type='text/css' />
 	<link href="css/style.css" rel="stylesheet" type="text/css" />
 	<link rel="icon" type="image/x-icon" href="http://www.brodieparkcrossfit.com/favicon.ico">
 

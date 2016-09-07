@@ -6,9 +6,9 @@
     <meta name="keywords" content="Brodie Park, Brodie Park Crossfit, CrossFit Kids austin, austin, ATX, texas, TX, Crossfit Austin, Crossfit TX, South Austin Crossfit, Crossfit, Crossfit Kids, crossfight" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <title>Brodie Park Crossfit | Austin, TX</title>
-    <link href='http://fonts.googleapis.com/css?family=Graduate' rel='stylesheet' type='text/css' />
-    <link href='http://fonts.googleapis.com/css?family=Economica:400,700' rel='stylesheet' type='text/css' />
-    <link href='http://fonts.googleapis.com/css?family=Permanent+Marker' rel='stylesheet' type='text/css' />
+    <link href='https://fonts.googleapis.com/css?family=Graduate' rel='stylesheet' type='text/css' />
+    <link href='https://fonts.googleapis.com/css?family=Economica:400,700' rel='stylesheet' type='text/css' />
+    <link href='https://fonts.googleapis.com/css?family=Permanent+Marker' rel='stylesheet' type='text/css' />
     <script src="//ajax.googleapis.com/ajax/libs/jquery/1.7/jquery.min.js" type="text/javascript"></script>
 
     <link href="css/style.css" rel="stylesheet" type="text/css" />
@@ -52,7 +52,10 @@
             <div class="module" id="trainers">
                 <h2>Meet Our Coaches</h2>
                 <ul>
-                    <li><a href="coaches.php">Sara</a></li>
+                    <!-- <li><a href="coaches.php">Corey</a></li> -->
+                    <li><a href="#">Corey</a></li>
+                    <li><a href="#">Jami</a></li>
+                    <li><a href="#">Rob</a></li>
                 </ul>
             </div>
 
