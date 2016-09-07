@@ -50,7 +50,7 @@
 
             <div class="map">
                 <iframe width="440" height="300" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.com/maps?q=9100+brodie+lane+austin&amp;ie=UTF8&amp;hq=&amp;hnear=9100+Brodie+Ln,+Austin,+Texas+78749&amp;gl=us&amp;t=m&amp;ll=30.193286,-97.843723&amp;spn=0.022256,0.03768&amp;z=14&amp;iwloc=A&amp;output=embed"></iframe>
-                <small><a href="http://maps.google.com/maps?q=9100+brodie+lane+austin&amp;ie=UTF8&amp;hq=&amp;hnear=9100+Brodie+Ln,+Austin,+Texas+78749&amp;gl=us&amp;t=h&amp;ll=30.193286,-97.843723&amp;spn=0.022256,0.03768&amp;z=14&amp;iwloc=A&amp;source=embed" target="_blank">View Larger Map</a></small>
+                <small><a href="https://maps.google.com/maps?q=9100+brodie+lane+austin&amp;ie=UTF8&amp;hq=&amp;hnear=9100+Brodie+Ln,+Austin,+Texas+78749&amp;gl=us&amp;t=h&amp;ll=30.193286,-97.843723&amp;spn=0.022256,0.03768&amp;z=14&amp;iwloc=A&amp;source=embed" target="_blank">View Larger Map</a></small>
             </div>
 
             <h3>Our Address</h3>
@@ -66,9 +66,9 @@
             <h3>Connect with BPC</h3>
 
             <p>
-                Facebook <a href="http://www.facebook.com/BrodieParkCrossFit" target="_blank">@BrodieParkCrossFit</a>
-                <br />Twitter <a href="http://twitter.com/#!/brodieparkxfit" target="_blank">@brodieparkxfit</a>
-                <br />YouTube <a href="http://www.youtube.com/BrodieParkCrossFit" target="_blank">@BrodieParkCrossFit</a>
+                Facebook <a href="https://www.facebook.com/BrodieParkCrossFit" target="_blank">@BrodieParkCrossFit</a>
+                <br />Twitter <a href="https://twitter.com/#!/brodieparkxfit" target="_blank">@brodieparkxfit</a>
+                <br />YouTube <a href="https://www.youtube.com/BrodieParkCrossFit" target="_blank">@BrodieParkCrossFit</a>
             </p>
         </div>
 
