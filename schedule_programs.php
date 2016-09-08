@@ -31,7 +31,7 @@
 
         <div class="col" id="singlecol">
             <h1>Weekly Training Schedule</h1>
-            <span class="right"><em>2 class program: Mandatory introductory classes for beginngers on all CrossFit points of performance.</em></span>
+            <span class="right"><em>2 class program: Mandatory introductory classes for beginners on all CrossFit points of performance.</em></span>
             <h3 id="boot-camps">Elements</h3>
             <br />
 
