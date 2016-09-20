@@ -34,18 +34,18 @@
 
 			<h1>Meet Our Coaches</h1>
 
-			<div id="women-sara"></div>
+			<div id="men-corey"></div>
 			<table>
 				<tr>
 					<td>
-						<img src="images/Brodie_Park_Crossfit_Trainer_Sara_Smithhart.jpg"/>
+						<img src="images/BPC_Corey_Rower.jpg"/>
 					</td>
 					<td>
-						<h3><b>COACH SARA</b></h3>
+						<h3><b>COACH COREY</b></h3>
 
-						<p>Meet Sara Smithhart, founder and owner of Brodie Park CrossFit. Soon after her graduation from the University of Mississippi in 2005 Sara found her way to Austin, Texas.  Having had a very broad background in many athletic activities, Sara soon was looking to become active again.</p>
+						<p>Hart is a life-long athlete and adoring father who enjoys CrossFit, yoga, hiking the greenbelt, and comedy. He joined BPC in 2013 and immediately loved the community of athlete mentors and the constant challenge provided by CrossFit.</p>
 						<br/>
-		                <p><a href="coaches-sara.php">Read Full Bio...</a></p>
+		                <p><a href="coaches-corey.php">Read Full Bio...</a></p>
 					</td>
 				</tr>
 			</table>

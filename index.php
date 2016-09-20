@@ -52,8 +52,7 @@
             <div class="module" id="trainers">
                 <h2>Meet Our Coaches</h2>
                 <ul>
-                    <!-- <li><a href="coaches.php">Corey</a></li> -->
-                    <li><a href="#">Corey</a></li>
+                    <li><a href="coaches.php">Corey</a></li>
                     <li><a href="#">Jami</a></li>
                     <li><a href="#">Rob</a></li>
                 </ul>
