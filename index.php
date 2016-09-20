@@ -5,6 +5,7 @@
     <meta name="description" content="Brodie Park Crossfit" />
     <meta name="keywords" content="Brodie Park, Brodie Park Crossfit, CrossFit Kids austin, austin, ATX, texas, TX, Crossfit Austin, Crossfit TX, South Austin Crossfit, Crossfit, Crossfit Kids, crossfight" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="p:domain_verify" content="202ae35ffd71013d21c652ac7dfd4982"/>
     <title>Brodie Park Crossfit | Austin, TX</title>
     <link href='https://fonts.googleapis.com/css?family=Graduate' rel='stylesheet' type='text/css' />
     <link href='https://fonts.googleapis.com/css?family=Economica:400,700' rel='stylesheet' type='text/css' />

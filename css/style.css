@@ -269,12 +269,12 @@ ul li a {
 ul.rightnav li {
     margin: 7px 2px 0;
     float: right;
-    width: 50px;
+    width: 43px;
 }
 
 ul.rightnav li a {
-    height: 35px;
-    width: 35px;
+    height: 28px;
+    width: 28px;
     display: block;
     padding: 2px;
     background: #2f2f31;
@@ -286,15 +286,22 @@ ul.rightnav li a {
 }
 
 ul.rightnav .header_img {
-    height: 35px;
-    width: 35px;
+    height: 28px;
+    width: 28px;
     border: 0px;
 }
 
 ul.rightnav .header_img.yelp-icon {
-    height: 30px;
-    width: 30px;
-    margin: 3px 2px 0 0;
+    height: 25px;
+    width: 24px;
+    margin: 2px 2px 0 0;
+}
+
+ul.rightnav .header_img.pinterest-icon {
+    border-radius: 9px;
+    height: 27px;
+    width: 27px;
+    margin-top: 1px;
 }
 
 header ul.rightnav li a:hover {
