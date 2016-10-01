@@ -10,7 +10,7 @@
     </div>
 
     <div class="col" id="rightcol">
-        <a href="mailto:info@brodiepark.com">info@brodiepark.com</a>
+        <a href="mailto:info@brodieparkcrossfit.com">info@brodieparkcrossfit.com</a>
     </div>
 
     <div class="clear"></div>
