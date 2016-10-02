@@ -623,6 +623,60 @@ ul.training-calendar {
 .member-pricing .price { width: 100px; }
 .member-pricing .fine-print { font-size: 0.9em }
 
+.bpc-pricing {
+    font-family: 'Economica', Arial, Helvetica, sans-serif;
+}
+
+.bpc-pricing .bpc-pricing-container {
+    display: inline-block;
+    width: 23%;
+    padding: 7px;
+}
+
+.bpc-pricing .bpc-pricing-container .bpc-pricing-item {
+    width: 100%;
+    border: 2px solid #aaaaaa;
+    color: #ffffff;
+    border-radius: 6px;
+}
+
+.bpc-pricing .bpc-pricing-container .bpc-pricing-item .bpc-pricing-item-header {
+    border-bottom: 1px solid #aaaaaa;
+    font-size: 18px;
+    line-height: 28px;
+    text-align: center;
+}
+
+.bpc-pricing .bpc-pricing-container .bpc-pricing-item .bpc-pricing-item-price {
+    border-bottom: 1px solid #aaaaaa;
+    font-size: 46px;
+    text-align: center;
+}
+
+.bpc-pricing .bpc-pricing-container .bpc-pricing-item .bpc-pricing-item-price .small-text {
+    font-size: 22px;
+}
+
+.bpc-pricing .bpc-pricing-container .bpc-pricing-item .bpc-pricing-item-header-info {
+    height: 220px;
+    border-bottom: 1px solid #aaaaaa;
+    font-size: 16px;
+    text-align: left;
+    padding: 5px;
+    font-style: italic;
+}
+
+.bpc-pricing .bpc-pricing-container .bpc-pricing-item .bpc-pricing-item-sign-up {
+    font-size: 20px;
+    line-height: 34px;
+    font-weight: 700;
+    text-align: center;
+}
+
+.bpc-pricing .bpc-pricing-container .bpc-pricing-item .bpc-pricing-item-sign-up a {
+    color: #00adef;
+}
+
 .map {
     float: right;
     clear: right;
@@ -841,6 +895,18 @@ footer #rightcol {
         padding: 10px;
         width: 300px;
         margin: 0 auto;
+    }
+
+    .bpc-pricing {
+        margin-top: -15px;
+    }
+
+    .bpc-pricing .bpc-pricing-container {
+        width: 95%;
+    }
+
+    .bpc-pricing .bpc-pricing-container .bpc-pricing-item .bpc-pricing-item-header-info {
+        height: 170px;
     }
 
     .map{

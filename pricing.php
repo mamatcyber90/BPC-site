@@ -31,176 +31,94 @@
 
         <div class="col" id="singlecol">
             <h1>BPC Membership Fees</h1>
-
-            <h3>CrossFit Classes</h3>
-            <hr/>
-
-            <div class="member-pricing gray">
-                <div class="membership"><strong>Membership Package</strong></div>
-                <div class="frequency"><strong># of Classes</strong></div>
-                <div class="price"><strong>Monthly Rate</strong></div>
-            </div>
-
-            <div class="member-pricing">
-                <div class="membership">01-Month Membership</div>
-                <div class="frequency">2/Week</div>
-                <div class="price">$165/mo</div>
-            </div>
-            <div class="member-pricing">
-                <div class="membership"></div>
-                <div class="frequency">3/Week</div>
-                <div class="price">$180/mo</div>
-            </div>
-            <div class="member-pricing">
-                <div class="membership"></div>
-                <div class="frequency">Unlimited</div>
-                <div class="price">$200/mo</div>
-            </div>
-
-            <div class="member-pricing">
-                <div class="membership">03-Month Membership</div>
-                <div class="frequency">2/Week</div>
-                <div class="price">$145/mo</div>
-            </div>
-            <div class="member-pricing">
-                <div class="membership"></div>
-                <div class="frequency">3/Week</div>
-                <div class="price">$170/mo</div>
-            </div>
-            <div class="member-pricing">
-                <div class="membership"></div>
-                <div class="frequency">Unlimited</div>
-                <div class="price">$180/mo</div>
-            </div>
-
-            <div class="member-pricing">
-                <div class="membership">06-Month Membership</div>
-                <div class="frequency">2/Week</div>
-                <div class="price">$125/mo</div>
-            </div>
-            <div class="member-pricing">
-                <div class="membership"></div>
-                <div class="frequency">3/Week</div>
-                <div class="price">$145/mo</div>
-            </div>
-            <div class="member-pricing">
-                <div class="membership"></div>
-                <div class="frequency">Unlimited</div>
-                <div class="price">$165/mo</div>
-            </div>
-
-            <div class="member-pricing">
-                <div class="membership">12-Month Membership</div>
-                <div class="frequency">2/Week</div>
-                <div class="price">$115/mo</div>
-            </div>
-            <div class="member-pricing">
-                <div class="membership"></div>
-                <div class="frequency">3/Week</div>
-                <div class="price">$135/mo</div>
-            </div>
-            <div class="member-pricing">
-                <div class="membership"></div>
-                <div class="frequency">Unlimited</div>
-                <div class="price">$145/mo</div>
-            </div>
-
-            <div class="clear"></div>
-            <br />
-
-            <div class="member-pricing gray">
-                <div class="membership"><strong>Membership Package</strong></div>
-                <div class="frequency"><strong># of Classes</strong></div>
-                <div class="price"><strong>Monthly Rate</strong></div>
-            </div>
-
-            <div class="member-pricing">
-                <div class="membership">Single Class</div>
-                <div class="frequency">1 class</div>
-                <div class="price">$20.00</div>
-            </div>
-            <div class="member-pricing">
-                <div class="membership">10 Class Punchcard</div>
-                <div class="frequency">10 classes</div>
-                <div class="price">$165.00</div>
-            </div>
-
-            <div class="clear"></div>
-            <br/>
-
-            <h3>Beginner Class</h3>
-            <hr/>
-
-            <div class="member-pricing gray">
-                <div class="membership"><strong>Membership Package</strong></div>
-                <div class="frequency"><strong># of Classes</strong></div>
-                <div class="price"><strong>Monthly Rate</strong></div>
-            </div>
-
-            <div class="member-pricing">
-                <div class="membership">2 Class Intro Course</div>
-                <div class="frequency"></div>
-                <div class="price">$100</div>
-            </div>
-
-            <div class="member-pricing">
-                <div class="fine-print">
-                    *All Beginner Classes must be scheduled with a BPC coach. Email info@brodieparkcrossfit.com to schedule.
+            
+            <div class="bpc-pricing">
+                <div class="bpc-pricing-container">
+                    <div class="bpc-pricing-item">
+                        <div class="bpc-pricing-item-header">Single Class</div>
+                        <div class="bpc-pricing-item-price">
+                            <span class="small-text">$</span>20
+                        </div>
+                        <div class="bpc-pricing-item-header-info">
+                            <br/>
+                            &bull; Single CrossFit class
+                        </div>
+                        <div class="bpc-pricing-item-sign-up">
+                            <a href="https://brodieparkcrossfit.sites.zenplanner.com/sign-up-now.cfm" target="_blank">Sign up now</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="bpc-pricing-container">
+                    <div class="bpc-pricing-item">
+                        <div class="bpc-pricing-item-header">Elements</div>
+                        <div class="bpc-pricing-item-price">
+                            <span class="small-text">$</span>100
+                        </div>
+                        <div class="bpc-pricing-item-header-info">
+                            <br/>
+                            &bull; Mandatory introductory classes for beginners on all CrossFit points of performance
+                            <br/>
+                            <br/>
+                            &bull; Two semi-private classes
+                            <br/>
+                            <br/>
+                            &bull; If purchased with 6 or 12 month membership, payment goes towards first months dues
+                        </div>
+                        <div class="bpc-pricing-item-sign-up">
+                            <a href="https://brodieparkcrossfit.sites.zenplanner.com/sign-up-now.cfm" target="_blank">Sign up now</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="bpc-pricing-container">
+                    <div class="bpc-pricing-item">
+                        <div class="bpc-pricing-item-header">12 Month Membership</div>
+                        <div class="bpc-pricing-item-price">
+                            <span class="small-text">$</span>145<span class="small-text">/ mo.</span>
+                        </div>
+                        <div class="bpc-pricing-item-header-info">
+                            <br/>
+                            &bull; 12 month membership, Unlimited classes
+                            <br/>
+                            <br/>
+                            &bull; Membership cancellations require 30 days notice
+                        </div>
+                        <div class="bpc-pricing-item-sign-up">
+                            <a href="https://brodieparkcrossfit.sites.zenplanner.com/sign-up-now.cfm" target="_blank">Sign up now</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="bpc-pricing-container">
+                    <div class="bpc-pricing-item">
+                        <div class="bpc-pricing-item-header">6 Month Membership</div>
+                        <div class="bpc-pricing-item-price">
+                            <span class="small-text">$</span>165<span class="small-text">/ mo.</span>
+                        </div>
+                        <div class="bpc-pricing-item-header-info">
+                            <br/>
+                            &bull; 6 month membership, Unlimited classes
+                            <br/>
+                            <br/>
+                            &bull; Membership cancellations require 30 days notice
+                        </div>
+                        <div class="bpc-pricing-item-sign-up">
+                            <a href="https://brodieparkcrossfit.sites.zenplanner.com/sign-up-now.cfm" target="_blank">Sign up now</a>
+                        </div>
+                    </div>
                 </div>
             </div>
 
-            <div class="clear"></div>
-            <br />
-
-            <h3>Indoor Strength Classes</h3>
-            <hr/>
-
-            <div class="member-pricing gray">
-                <div class="membership"><strong>Membership Package</strong></div>
-                <div class="frequency"><strong># of Classes</strong></div>
-                <div class="price"><strong>Monthly Rate</strong></div>
-            </div>
-
-            <div class="member-pricing">
-                <div class="membership">Members</div>
-                <div class="frequency"></div>
-                <div class="price">$5/class</div>
-            </div>
-            <div class="member-pricing">
-                <div class="membership">Members Punch Card</div>
-                <div class="frequency">9 classes</div>
-                <div class="price">$40/8 classes + 1 free</div>
-            </div>
-            <div class="member-pricing">
-                <div class="membership">Members Punch Card</div>
-                <div class="frequency">14 classes</div>
-                <div class="price">$60/12 classes + 2 free</div>
-            </div>
-            <div class="member-pricing">
-                <div class="membership">Non Members</div>
-                <div class="frequency"></div>
-                <div class="price">$20/class</div>
-            </div>
-            <div class="member-pricing">
-                <div class="membership">Non Members Punch Card</div>
-                <div class="frequency">6 classes</div>
-                <div class="price">$100/5 classes + 1 free</div>
-            </div>
             <div class="clear"></div>
 
             <br /><br />
             <div class="member-pricing">
                 <div class="fine-print">
-                    *With the exception of beginner classes, all membership packages rates are per calendar month, paid monthly.
+                    *All membership packages rates are per calendar month, paid monthly.
                     <br />
                     **15% discount to Teachers, Students, Police, Firefighters, and Military.
                     <br />
                     ***No refunds on personal training, group training, and membership packages.
                 </div>
             </div>
-
-
-
 
         </div>
 
