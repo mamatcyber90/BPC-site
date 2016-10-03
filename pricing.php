@@ -44,7 +44,7 @@
                             &bull; Single CrossFit class
                         </div>
                         <div class="bpc-pricing-item-sign-up">
-                            <a href="https://brodieparkcrossfit.sites.zenplanner.com/sign-up-now.cfm" target="_blank">Sign up now</a>
+                            <a href="mailto:info@brodieparkcrossfit.com">Contact now</a>
                         </div>
                     </div>
                 </div>
@@ -65,7 +65,7 @@
                             &bull; If purchased with 6 or 12 month membership, payment goes towards first months dues
                         </div>
                         <div class="bpc-pricing-item-sign-up">
-                            <a href="https://brodieparkcrossfit.sites.zenplanner.com/sign-up-now.cfm" target="_blank">Sign up now</a>
+                            <a href="mailto:info@brodieparkcrossfit.com">Contact now</a>
                         </div>
                     </div>
                 </div>
@@ -114,9 +114,7 @@
                 <div class="fine-print">
                     *All membership packages rates are per calendar month, paid monthly.
                     <br />
-                    **15% discount to Teachers, Students, Police, Firefighters, and Military.
-                    <br />
-                    ***No refunds on personal training, group training, and membership packages.
+                    **No refunds on personal training, group training, and membership packages.
                 </div>
             </div>
 
