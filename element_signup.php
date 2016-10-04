@@ -1,5 +1,5 @@
 <?php 
-$your_email ='corey@coreydot.com';// <<=== update to your email address
+$your_email ='info@brodieparkcrossfit.com';// <<=== update to your email address
 
 session_start();
 $errors = '';

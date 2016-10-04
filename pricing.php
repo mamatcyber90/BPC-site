@@ -65,7 +65,7 @@
                             &bull; If purchased with 6 or 12 month membership, payment goes towards first months dues
                         </div>
                         <div class="bpc-pricing-item-sign-up">
-                            <a href="mailto:info@brodieparkcrossfit.com">Contact now</a>
+                            <a href="element_signup.php">Sign up now</a>
                         </div>
                     </div>
                 </div>
