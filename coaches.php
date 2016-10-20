@@ -50,6 +50,38 @@
 				</tr>
 			</table>
 
+            <div id="women-jami"></div>
+            <table>
+                <tr>
+                    <td>
+                        <img src="images/jami-profile.jpg"/>
+                    </td>
+                    <td>
+                        <h3><b>COACH JAMI</b></h3>
+
+                        <p>Jami Mendoza graduated from Texas State with a Bachelor’s degree in Exercise Sports Science concentrated in Pre-Physical Therapy.</p>
+                        <br/>
+                        <p><a href="coaches-jami.php">Read Full Bio...</a></p>
+                    </td>
+                </tr>
+            </table>
+
+            <div id="men-wladi"></div>
+            <table>
+                <tr>
+                    <td>
+                        <img src="images/wladi-profile.png"/>
+                    </td>
+                    <td>
+                        <h3><b>COACH WLADI</b></h3>
+
+                        <p>For the last 7 years, Wladi Montoya (pronounced Vladi) has been working to perfect his expertise as a trainer. Interestingly enough when he first began coaching CrossFit, Wladi was Jami’s first CrossFit trainer.</p>
+                        <br/>
+                        <p><a href="coaches-wladi.php">Read Full Bio...</a></p>
+                    </td>
+                </tr>
+            </table>
+
 
 			<div class="clear"></div>
 			<hr />

@@ -54,8 +54,8 @@
                 <h2>Meet Our Coaches</h2>
                 <ul>
                     <li><a href="coaches.php">Corey</a></li>
-                    <li><a href="#">Jami</a></li>
-                    <li><a href="#">Wladi</a></li>
+                    <li><a href="coaches.php">Jami</a></li>
+                    <li><a href="coaches.php">Wladi</a></li>
                 </ul>
             </div>
 
