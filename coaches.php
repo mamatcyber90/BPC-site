@@ -50,6 +50,9 @@
 				</tr>
 			</table>
 
+            <div class="clear"></div>
+            <hr />
+
             <div id="women-jami"></div>
             <table>
                 <tr>
@@ -65,6 +68,9 @@
                     </td>
                 </tr>
             </table>
+
+            <div class="clear"></div>
+            <hr />
 
             <div id="men-wladi"></div>
             <table>
