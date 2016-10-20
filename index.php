@@ -62,8 +62,6 @@
             <div class="module" id="sponser">
                 <ul>
                     <li><a href="http://journal.crossfit.com/start.tpl?version=CFJ-white300x150" target="_blank" title="CrossFit Journal: The Performance-Based Lifestyle Resource"><img style="margin: 2px 19px 0;" src="http://journal.crossfit.com/templates/images/white-300x150.png" width="150px" height="66px" alt="CrossFit Journal: The Performance-Based Lifestyle Resource" /></a></li>
-                    <li><a href="https://www.advocare.com/120311523" target="_blank"><img style="height: 70px; margin-left: 30px;" src="images/white-advocare-logo.png" alt="advocare"></a></li>
-                    <li><a href="https://kids.crossfit.com " target="_blank"><img style="margin-left: 15px;" src="images/CFK_logo_v_tag_color_darkbg.png" alt="crossfit-kids"></a></li>
                 </ul>
             </div>
 
