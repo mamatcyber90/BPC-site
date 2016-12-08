@@ -62,6 +62,7 @@
             <div class="module" id="sponser">
                 <ul>
                     <li><a href="http://journal.crossfit.com/start.tpl?version=CFJ-white300x150" target="_blank" title="CrossFit Journal: The Performance-Based Lifestyle Resource"><img style="margin: 2px 19px 0;" src="http://journal.crossfit.com/templates/images/white-300x150.png" width="150px" height="66px" alt="CrossFit Journal: The Performance-Based Lifestyle Resource" /></a></li>
+                    <li><a href="http://www.airrosti.com/amc/I0D3P4EI0A5" target="_blank" title="Airrosti Rehab Centers"><img src="http://airrosti.com/images/airrosti-logo-white.png" width="150px" height="43px" alt="Airrosti Rehab Centers" /></a></li>
                 </ul>
             </div>
 
