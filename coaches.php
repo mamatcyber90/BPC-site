@@ -92,6 +92,26 @@
 			<div class="clear"></div>
 			<hr />
 
+            <div id="men-david"></div>
+            <table>
+                <tr>
+                    <td>
+                        <img src="images/david-profile.png"/>
+                    </td>
+                    <td>
+                        <h3><b>COACH DAVID</b></h3>
+
+                        <p>Coach David is a native Austinite and loves his city. He first entered the world of CrossFit back in the summer of 2008. Having trained in Krav Maga for several years prior and being a self-proclaimed Globo Gym Rat, he considered himself as someone who was in pretty good shape.  He quickly learned however, as most people do after their first few bouts with a CrossFit WOD, just how out of shape and how weak he really was in many areas.</p>
+                        <br/>
+                        <p><a href="coaches-david.php">Read Full Bio...</a></p>
+                    </td>
+                </tr>
+            </table>
+
+
+            <div class="clear"></div>
+            <hr />
+
 		</div>
 		<div class="clear"></div>
 	</div>

@@ -56,6 +56,7 @@
                     <li><a href="coaches.php">Corey</a></li>
                     <li><a href="coaches.php">Jami</a></li>
                     <li><a href="coaches.php">Wladi</a></li>
+                    <li><a href="coaches.php">David</a></li>
                 </ul>
             </div>
 
