@@ -112,6 +112,26 @@
             <div class="clear"></div>
             <hr />
 
+            <div id="men-aaron"></div>
+            <table>
+                <tr>
+                    <td>
+                        <img src="images/aaron-profile.png"/>
+                    </td>
+                    <td>
+                        <h3><b>COACH AARON</b></h3>
+
+                        <p>Aaron Garza graduated from the University of Texas at Austin in 2011 with a Bachelors Degree in Civil Engineering. But don't let the nerd in him fool you. He has been involved in sports since the age of 4. Basketball, football, and track have set the foundation for his athletic background. He began competing in the endurance space throughout college which ultimately led to the completion of the 2012 Dallas White Rock Marathon. In June of 2013, while training for the Austin 70.3 IRONMAN, a cycling accident landed him in the ER with a broken tibia. It was during the injury rehabilitation process that he discovered CrossFit.</p>
+                        <br/>
+                        <p><a href="coaches-aaron.php">Read Full Bio...</a></p>
+                    </td>
+                </tr>
+            </table>
+
+
+            <div class="clear"></div>
+            <hr />
+
 		</div>
 		<div class="clear"></div>
 	</div>
