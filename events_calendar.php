@@ -39,7 +39,7 @@ $calendar -> start();
     <link href='https://fonts.googleapis.com/css?family=Permanent+Marker' rel='stylesheet' type='text/css' />
     <script src="//ajax.googleapis.com/ajax/libs/jquery/1.7/jquery.min.js" type="text/javascript"></script>
 
-    <link href="css/style.css" rel="stylesheet" type="text/css" />
+    <link href="css/style20170124.css" rel="stylesheet" type="text/css" />
     <link rel="stylesheet" href="css/calendar.css" type="text/css">
     <link rel="icon" type="image/x-icon" href="http://www.brodieparkcrossfit.com/favicon.ico">
     <!--[if lt IE 9]>

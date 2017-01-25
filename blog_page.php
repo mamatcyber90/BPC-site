@@ -25,7 +25,7 @@
 	
 	});
 	</script>
-	<link href="css/style.css" rel="stylesheet" type="text/css" />
+	<link href="css/style20170124.css" rel="stylesheet" type="text/css" />
 	<link href="css/blocker.css" rel="stylesheet" type="text/css" />
 	<link rel="icon" type="image/x-icon" href="http://www.brodieparkcrossfit.com/favicon.ico">
 	<!--[if lt IE 9]>

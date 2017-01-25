@@ -9,7 +9,7 @@
 	<link href='https://fonts.googleapis.com/css?family=Graduate' rel='stylesheet' type='text/css' />
 	<link href='https://fonts.googleapis.com/css?family=Economica:400,700' rel='stylesheet' type='text/css' />
 	<link href='https://fonts.googleapis.com/css?family=Permanent+Marker' rel='stylesheet' type='text/css' />
-	<link href="css/style.css" rel="stylesheet" type="text/css" />
+	<link href="css/style20170124.css" rel="stylesheet" type="text/css" />
 	<link rel="icon" type="image/x-icon" href="http://www.brodieparkcrossfit.com/favicon.ico">
 
 	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7/jquery.js" type="text/javascript"></script>

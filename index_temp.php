@@ -11,7 +11,7 @@
     <link href='http://fonts.googleapis.com/css?family=Permanent+Marker' rel='stylesheet' type='text/css' />
     <script src="//ajax.googleapis.com/ajax/libs/jquery/1.7/jquery.min.js" type="text/javascript"></script>
 
-    <link href="css/style.css" rel="stylesheet" type="text/css" />
+    <link href="css/style20170124.css" rel="stylesheet" type="text/css" />
     <link rel="icon" type="image/x-icon" href="http://www.brodieparkcrossfit.com/favicon.ico">
     <!--[if lt IE 9]>
     <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
